@@ -1,6 +1,15 @@
 # Raspberry-Pi-Kernel-Bouncing-Ball-Demonstration
 Fully working Raspberry Pi 3B+ bootable image. 
 Created using the circle project. 
+How to Use these Files
+  This bootable image should only work on raspberry pi 3B+ I would not try it on other hardware it has not been tested by me. 
+  Format an SD card as Fat32. 
+  Ensure the partition is 32GB or less before you format it. 
+  Load all the files from this project onto the SD card. 
+  Plug in the raspberry pi to power
+  plug in the hdmi display to the raspberry pi 
+  
+  
 Purpose: 
   I pulled together working examples from the circle project and made this working bouncing ball program - namely, the HDMI library 
   and the circle drawing commands are what took so long to get working. 
