@@ -9,7 +9,7 @@ Created using the circle project.
   Plug in the raspberry pi to power
   plug in the hdmi display to the raspberry pi 
   # Works on a 1024 x 600 HDMI display #
-  # Edit cmdline.txt to match your display resolution before using.#
+  # Edit cmdline.txt to match your display resolution before trying this program. 
   
   
 # Purpose: 
